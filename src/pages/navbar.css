@@ -1,3 +1,7 @@
+.daveNav{
+  width: 2000px;
+}
+
 .daveNav a:hover {
   border-bottom: 2px solid #EB2625;
 }
@@ -15,8 +19,7 @@
   padding: 17px;
   left: 320px;
 }
-/* .fas {
-  /* /* position: relative; */
-  /* padding: 17px;
-  right: 10px;; */
-/* } */ 
+
+li {
+  margin-right: 15px;
+}

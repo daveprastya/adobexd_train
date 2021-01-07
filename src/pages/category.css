@@ -1,0 +1,12 @@
+.containerCategory {
+  background-image: url('../media/Background_Category.png');
+  color: #FFFFFF;
+}
+
+.textCategory{
+  padding-left: 6px;
+}
+
+.containerCategory .container .textCategory{
+  font-size: 24px;
+}
