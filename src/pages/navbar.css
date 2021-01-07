@@ -1,0 +1,26 @@
+.daveNav{
+  width: 2000px;
+  font-size: 18px;
+}
+
+.daveNav a:hover {
+  border-bottom: 2px solid #EB2625;
+}
+
+.daveNav a:active {
+  border-bottom: 2px solid #EB2625;
+}
+
+.searchInput {
+  position: relative;
+}
+
+.searchInput i{
+  position: absolute;
+  padding: 17px;
+  left: 320px;
+}
+
+li {
+  margin-right: 15px;
+}
