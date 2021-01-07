@@ -11,7 +11,7 @@ function footer() {
           <p>Terms & Condition</p>
           <p>Privacy Policy</p>
         </div>
-        <div className="sosmed">
+        <div className="sosmed mt-2">
           <a href=""><img src={twitter}/></a>
           <a href=""><img src={instagram}/></a>
           <a href=""><img src={fb}/></a>
